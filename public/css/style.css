@@ -1,5 +1,7 @@
 h1 {
  color: blue;
+ text-align: center;
+ font-size: 2em;
 }
 #twitter {
 	width:500px;
@@ -7,9 +9,22 @@ h1 {
 	border: 2px solid black;
 	font-size: 3em;
 	padding:50px;
-	margin: 25px;
+	margin: 150px 0px 0px 25px;
+}
+#cats {
+	width: 150px;
+	border: 1px dotted black;
+	float: right;
+}
+#body {
+	float:left;
+	width: 500px;
 }
 img {
 	float:right;
-	margin: 100px;
+	width: 400px;
+}
+p {
+	width:500px;
+	margin-top: 65px;
 }
